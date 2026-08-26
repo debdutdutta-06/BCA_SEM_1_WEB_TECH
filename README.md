@@ -5,3 +5,5 @@ BCA Semester 1 - Web Technologies (BCA 105T) coursework: HTML, CSS, JavaScript
 
 - homework 3.html — First webpage (intro/welcome page)
 - homework 6.html — Input, Output & Storage devices page
+- homework 8.html — My HTML Homework Collection with hyperlink
+  and images
